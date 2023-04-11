@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eduardo/Projects/ML_DevOps_NG/ml_flow_pipeline_ex/mlruns/0/c0a4b50bfb5447f3a8e1e706d0b902d0/artifacts
+end_time: 1681156683622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0a4b50bfb5447f3a8e1e706d0b902d0
+run_name: bold-ox-651
+run_uuid: c0a4b50bfb5447f3a8e1e706d0b902d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681156653119
+status: 4
+tags: []
+user_id: eduardo

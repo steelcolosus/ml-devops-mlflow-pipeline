@@ -1,0 +1,128 @@
+{
+    "os": "Linux-5.19.0-38-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-04-10T20:01:35.870300",
+    "startedAt": "2023-04-10T20:01:34.918537",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+        "--artifact_name",
+        "iris",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "This data sets consists of 3 different types of irises\u2019 (Setosa, Versicolour, and Virginica) petal and sepal length"
+    ],
+    "state": "running",
+    "program": "/home/eduardo/Projects/ML_DevOps_NG/ml_flow_pipeline_ex/download_data.py",
+    "codePath": "download_data.py",
+    "host": "tensorbook",
+    "username": "eduardo",
+    "executable": "/home/eduardo/.mlflow/envs/mlflow-a676de6fda3c77b6e2af7357894fa3a9d089f447/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2790.0516875,
+        "min": 800.0,
+        "max": 4600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4079.614,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3773.251,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3035.53,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1257.222,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4590.269,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 934.488,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2120.786,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 800.239,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4065.768,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2486.155,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4544.856,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2300.0,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 3752.649,
+            "min": 800.0,
+            "max": 4600.0
+        }
+    ],
+    "disk": {
+        "total": 915.3232879638672,
+        "used": 215.0768928527832
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Laptop GPU",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 62.58682632446289
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eduardo/Projects/ML_DevOps_NG/ml_flow_pipeline_ex/mlruns/0/e4b409aad2394697927e12e8a8e2c2f0/artifacts
+end_time: 1681156997514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4b409aad2394697927e12e8a8e2c2f0
+run_name: lyrical-conch-403
+run_uuid: e4b409aad2394697927e12e8a8e2c2f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681156988659
+status: 3
+tags: []
+user_id: eduardo

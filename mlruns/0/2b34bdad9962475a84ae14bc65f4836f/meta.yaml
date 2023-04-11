@@ -1,0 +1,15 @@
+artifact_uri: file:///home/eduardo/Projects/ML_DevOps_NG/ml_flow_pipeline_ex/mlruns/0/2b34bdad9962475a84ae14bc65f4836f/artifacts
+end_time: 1681156905675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b34bdad9962475a84ae14bc65f4836f
+run_name: bemused-quail-22
+run_uuid: 2b34bdad9962475a84ae14bc65f4836f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681156829296
+status: 3
+tags: []
+user_id: eduardo
